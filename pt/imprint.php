@@ -19,7 +19,7 @@ $translations = array(
 
     'h3' => 'Aviso legal',
 
-    'p5' => 'O autor deste site reserva-se o direito de não ser responsável pela atualidade, exatidão, integridade ou qualidade das informações fornecidas. As reivindicações de responsabilidade relativas a danos causados pelo uso de qualquer informação fornecida, incluindo qualquer tipo de informação que esteja incompleta ou incorreta, será rejeitada.',
+    'p5' => 'O autor deste site reserva-se o direito de não ser responsável pela atualidade, exatidão, integridade ou qualidade das informações fornecidas. As reivindicações de responsabilidade relativas a danos causados pelo uso de qualquer informação fornecida, incluindo qualquer tipo de informação que esteja incompleta ou incorreta, serão rejeitadas.',
 
     'p6' => 'O autor deste site não se responsabiliza por qualquer conteúdo vinculado ou referidos neste site.',
 );
