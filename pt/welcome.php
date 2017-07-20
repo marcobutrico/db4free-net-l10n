@@ -7,7 +7,7 @@ Language: Portuguese (Brazilian)
 $translations = array(
     'h1' => 'Bem-vindo ao db4free.net',
 
-	'p1a' => 'O db4free.net fornece um serviço para teste com a mais recente - as vezes versões em desenvolvimento - do <a href="https://www.mysql.com/">MySQL Server</a>. Você pode facilmente <a href="/signup.php">criar uma conta grátis</a> e testar suas aplicações, por exemplo, para ter certeza que seus sistemas continuarão funcionando após a atualização do MySQL. O db4free.net também serve como um bom recurso de aprendizado e para ajudá-lo a se familiarizar com as novidades introduzidas em novas versões.',
+    'p1a' => 'O db4free.net fornece um serviço para teste com a mais recente - as vezes versões em desenvolvimento - do <a href="https://www.mysql.com/">MySQL Server</a>. Você pode facilmente <a href="/signup.php">criar uma conta grátis</a> e testar suas aplicações, por exemplo, para ter certeza que seus sistemas continuarão funcionando após a atualização do MySQL. O db4free.net também serve como um bom recurso de aprendizado e para ajudá-lo a se familiarizar com as novidades introduzidas em novas versões.',
 
     'p1b' => 'O db4free.net visa sempre trazer a ultima versão final ou a última versão em desenvolvimento do MySQL server. O MySQL server do db4free.net será atualizado pouco tempo depois de uma nova versão do MySQL ser liberada, normalmente no mesmo dia ou pouco depois.',
 
