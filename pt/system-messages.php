@@ -31,7 +31,7 @@ $translations = array(
 
     'passwords-not-identical' => 'As senhas estão diferentes.',
 
-    'password-too-short' => 'A senha deve ter pelo menos 6 caractéres.',
+    'password-too-short' => 'A senha deve ter pelo menos 6 caracteres.',
 
     'only-2-db-allowed' => 'São permitidos apenas 2 bancos de dados por email.',
 
@@ -41,13 +41,13 @@ $translations = array(
 
     'user-not-confirmed' => 'Endereço de email ainda não confirmado pelo usuário.',
 
-    'password-not-correct' => 'Senha incorreto.',
+    'password-not-correct' => 'Senha incorreta.',
 
     'confirmation-email' => 'Você receberá um email para confirmar as alterações.',
 
     'error-write-data' => 'Ocorreu um erro ao tentar atualizar seus dados.',
 
-    'error-send-email' => 'Ocorrou um erro ao tentar enviar o email de confirmação.',
+    'error-send-email' => 'Ocorreu um erro ao tentar enviar o email de confirmação.',
 
     'subject-signup' => 'Seu banco de dados cadastrado no db4free.net',
 
